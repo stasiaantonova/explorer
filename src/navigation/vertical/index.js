@@ -44,7 +44,7 @@ function processMenu() {
   chainMenus.push({
     title: 'Telegram',
     href: 'https://t.me/ernventuresglobal',
-    icon: 'TelegramIcon',
+    icon: 'SendIcon',
   })
   chainMenus.push({
     title: 'Github',
