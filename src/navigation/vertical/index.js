@@ -19,7 +19,7 @@ function processMenu() {
       title: 'blockchains',
       children: blockchains,
       tag: `${blockchains.length}`,
-      icon: 'https://ping.pub/logo.svg',
+      icon: 'https://github.com/stasiaantonova/ERN/blob/main/logo.svg',
     })
   }
   chainMenus.push({ header: 'LINKS' })
@@ -37,18 +37,18 @@ function processMenu() {
     })
   }
   chainMenus.push({
-    title: 'Twitter',
-    href: 'https://twitter.com/ping_pub',
-    icon: 'TwitterIcon',
+    title: 'WEBsite',
+    href: 'https://ernventures.com',
+    icon: 'ChromeIcon',
   })
   chainMenus.push({
-    title: 'FAQ',
-    href: 'https://github.com/ping-pub/explorer/discussions',
-    icon: 'MessageSquareIcon',
+    title: 'Telegram',
+    href: 'https://t.me/ernventuresglobal',
+    icon: 'TelegramIcon',
   })
   chainMenus.push({
     title: 'Github',
-    href: 'https://github.com/ping-pub/explorer',
+    href: 'https://github.com/ERNcrypto/Testnet-Manuals',
     icon: 'GithubIcon',
   })
 
