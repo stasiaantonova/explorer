@@ -22,20 +22,6 @@ function processMenu() {
       icon: 'https://github.com/stasiaantonova/ERN/blob/main/logo.svg',
     })
   }
-  chainMenus.push({ header: 'LINKS' })
-  if (isTestnet()) {
-    chainMenus.push({
-      title: 'Mainnet Explorer',
-      href: 'https://ping.pub',
-      icon: 'ChromeIcon',
-    })
-  } else {
-    chainMenus.push({
-      title: 'Testnet Explorer',
-      href: 'http://testnet.ping.pub',
-      icon: 'LifeBuoyIcon',
-    })
-  }
   chainMenus.push({
     title: 'WEBsite',
     href: 'https://ernventures.com',
