@@ -3,20 +3,20 @@
     <full-header />
     <b-link>
       <div class="d-flex justify-content-center align-items-center">
-        <vuexy-logo />
+        <appLogoImage: '/logo.svg'>
         <h1
           class="text-primary display-4 font-weight-bolder d-none d-md-block"
         >
-          ERN VENTURES Dashboard<small class="flow-left">Beta</small>
+          ERN VENTURES <small class="flow-left">Explorer</small>
         </h1>
       </div>
     </b-link>
 
     <p class="mb-1">
-      This Dashboard is not just an explorer but also a wallet and more ... 🛠
+      It's not just an explorer but also a wallet and more ... 🛠
     </p>
     <h2 class="mb-3">
-      Ecosystem Blockchains 🚀
+      Testnets 🚀
     </h2>
 
     <div>
