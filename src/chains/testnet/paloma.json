@@ -1,0 +1,16 @@
+{
+    "chain_name": "PALOMA",
+    "api": ["https://paloma-testnet.nodejumper.io:443"],
+    "rpc": ["https://paloma-testnet.nodejumper.io:1317"],
+     "sdk_version": "0.45.6",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "paloma",
+    "logo": "https://raw.githubusercontent.com/stasiaantonova/explorer/master/public/logos/paloma.png",
+    "assets": [{
+        "base": "ugrain",
+        "symbol": "GRAIN",
+        "exponent": "6",
+        "logo": "https://raw.githubusercontent.com/stasiaantonova/explorer/master/public/logos/paloma.png"
+    }]
+}
