@@ -17,7 +17,7 @@
     height="150"
     x="0"
     y="0"
-    href="https://github.com/stasiaantonova/explorer/blob/master/public/logo.png"
+    href="https://raw.githubusercontent.com/stasiaantonova/ERN/main/logo%20(1).png"
   />
   </svg>
 </template>
