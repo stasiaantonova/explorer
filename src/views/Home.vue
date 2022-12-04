@@ -3,7 +3,8 @@
     <full-header />
     <b-link>
       <div class="d-flex justify-content-center align-items-center">
-        <vuexy-logo />
+        <img src="https://raw.githubusercontent.com/stasiaantonova/explorer/master/public/logo.png" width="300"/></a></p></strong>
+<strong><p style="font-size:14px" align="left">
         <h1
           class="text-primary display-4 font-weight-bolder d-none d-md-block"
         >
