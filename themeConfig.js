@@ -11,7 +11,7 @@ export const $themeConfig = {
   app: {
     appName: 'ERN VENTURES', // Will update name in navigation menu (Branding)
     // eslint-disable-next-line global-require
-    appLogoImage: '/logo.svg', // Will update logo in navigation menu (Branding)
+    appLogoImage: 'https://raw.githubusercontent.com/stasiaantonova/explorer/48f3ddd9252072f199ebaa782a42aa402a8c6560/public/logo.svg', // Will update logo in navigation menu (Branding)
   },
   layout: {
     isRTL: false,
