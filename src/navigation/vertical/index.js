@@ -19,7 +19,7 @@ function processMenu() {
       title: 'blockchains',
       children: blockchains,
       tag: `${blockchains.length}`,
-      icon: 'https://github.com/stasiaantonova/ERN/blob/main/logo.svg',
+      icon: 'https://raw.githubusercontent.com/stasiaantonova/explorer/48f3ddd9252072f199ebaa782a42aa402a8c6560/public/logo.svg',
     })
   }
   chainMenus.push({
