@@ -8,6 +8,9 @@
         target="_blank"
       >ERN VENTURES</b-link>
     </span>
+    </router-link>
+  </p>
+</template>
 
 <script>
 import { BLink, VBPopover } from 'bootstrap-vue'
