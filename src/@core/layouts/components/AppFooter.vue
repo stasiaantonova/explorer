@@ -8,6 +8,17 @@
         target="_blank"
       >ERN VENTURES</b-link>
     </span>
+
+    <router-link
+      v-ripple.400="'rgba(113, 102, 240, 0.15)'"
+      class="float-md-right"
+      to="/coffee"
+    >
+      <span
+        v-ripple.400="'rgba(113, 102, 240, 0.15)'"
+        variant="outline-primary"
+      >
+      </span>
     </router-link>
   </p>
 </template>
