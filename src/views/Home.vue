@@ -12,7 +12,6 @@
       </div>
     </b-link>
 
-    </p>
     <h2 class="mb-3">
       Testnets 🚀
     </h2>
